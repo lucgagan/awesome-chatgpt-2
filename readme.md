@@ -226,6 +226,7 @@
 - [Node.js](https://github.com/transitive-bullshit/chatgpt-api)
 - [Go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 - [Delphi](https://github.com/HemulGM/DelphiOpenAI)
+- [Completions](https://github.com/lucgagan/completions) – unofficial SDK for ChatGPT completions API with streaming support 
 
 ### JavaScript
 
